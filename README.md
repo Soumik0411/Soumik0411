@@ -8,7 +8,7 @@ I'm Soumik Seal. A B.Tech CSE Graduate. I work as a software engineer during the
 ### ⚡️ A quick introduction 
 
 - 🔭 I’m currently working with at Adamas Tech Consuling.
-- 🌱 I’m currently learning React.Js and Node.Js. 
+- 🌱 I’m currently learning React.Js, Laravel and Node.Js. 
 - 💼 I'm open to freelancing projects.
 
 ---
